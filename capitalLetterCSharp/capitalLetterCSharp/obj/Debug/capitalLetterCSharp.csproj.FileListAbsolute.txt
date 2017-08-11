@@ -1,0 +1,6 @@
+C:\Users\MRSWHITE\Desktop\CSC 253\capitalLetterCSharp\capitalLetterCSharp\bin\Debug\capitalLetterCSharp.exe.config
+C:\Users\MRSWHITE\Desktop\CSC 253\capitalLetterCSharp\capitalLetterCSharp\bin\Debug\capitalLetterCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\capitalLetterCSharp\capitalLetterCSharp\bin\Debug\capitalLetterCSharp.pdb
+C:\Users\MRSWHITE\Desktop\CSC 253\capitalLetterCSharp\capitalLetterCSharp\obj\Debug\capitalLetterCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MRSWHITE\Desktop\CSC 253\capitalLetterCSharp\capitalLetterCSharp\obj\Debug\capitalLetterCSharp.exe
+C:\Users\MRSWHITE\Desktop\CSC 253\capitalLetterCSharp\capitalLetterCSharp\obj\Debug\capitalLetterCSharp.pdb
