@@ -1,0 +1,8 @@
+# provide instruction and get user input
+input = input('Enter a sentence and I will capitalize each word: ')
+
+tokens = input.split(' ')
+
+# capitalize each first letter of the token using for loop
+for words in input.split():
+    print(words[0].upper() + words[1:])
